@@ -1,2 +1,2 @@
-# Your-Daily-Quote
+# Your-Daily-Quote-Website
 A random generated quote website
